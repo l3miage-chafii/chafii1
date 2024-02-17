@@ -1,3 +1,11 @@
-code ~/.gitconfig
-
+[user]
+	name = l3miage-chafii
+	email = Iliass.Chafi@etu.univ-grenoble-alpes.fr
+[init]
+	defaultBranch = master
+[credential]
+	helper = store --file ~/.github-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
+[core]
+	editor = code --wait
+	autocrlf = false
 
